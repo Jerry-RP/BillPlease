@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="amts">Enter Amt</string>
+    <string name="paxs">Enter Pax</string>
+    <string name="finalc">Total Bill</string>
+    <string name="perpers">Payable Per Person</string>
+    <string name="resets">Reset</string>
+</resources>
